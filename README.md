@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Samrat!
+- 🔭 I’m currently learning Web Development & Computer Science
+- 💻 Languages I know: C, Python, JavaScript, HTML/CSS
+- 🧠 Fun projects: CLI games, web tools, quizzes
 
-<!--
-**CRASHs4aint/CRASHs4aint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true)
 
-Here are some ideas to get you started:
+### 🌐 Portfolio
+[Visit My Web Portfolio](https://yourportfolio.link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- ✅ Build 5+ beginner-friendly web apps
+- ✅ Master Git & GitHub
+- ✅ Collaborate on open-source projects
