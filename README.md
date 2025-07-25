@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true)
 
 ### 🌐 Portfolio
-[Visit My Web Portfolio](https://yourportfolio.link)
+https://sam-portfolio-theta-neon.vercel.app/
 
 ### 🎯 Goals
 - ✅ Build 5+ beginner-friendly web apps
