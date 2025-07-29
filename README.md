@@ -1,5 +1,5 @@
 𓆩👾 𝕊𝕒𝕞𝕣𝕒𝕥 𝕂𝕦𝕞𝕒𝕣 𝕊𝕒𝕙𝕦 👾𓆪  
-`~// initiate... portfolio.exe //~`
+
 
 🧬 BEGINNER.DEVELOPER++
 🔍 Exploring → Web, Code, Curiosity  
