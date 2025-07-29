@@ -1,6 +1,12 @@
-### 👋 Hi, I'm Samrat!
-- 🔭 I’m currently learning Web Development & Computer Science
-- 💻 Languages I know: C, Python, JavaScript, HTML/CSS
+𓆩👾 𝕊𝕒𝕞𝕣𝕒𝕥 𝕂𝕦𝕞𝕒𝕣 𝕊𝕒𝕙𝕦 👾𓆪  
+`~// initiate... portfolio.exe //~`
+
+🧬 BEGINNER.DEVELOPER++
+🔍 Exploring → Web, Code, Curiosity  
+🛠️ Tech stack: [HTML, CSS, JS, C, Python]
+
+
+
 
 
 ---
