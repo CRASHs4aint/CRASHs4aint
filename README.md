@@ -22,6 +22,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=pie)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CRASHs4aint&theme=radical)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CRASHs4aint&theme=radical)
+
+
 ### 🌐 Portfolio
 https://sam-portfolio-theta-neon.vercel.app/
 
