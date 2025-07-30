@@ -13,13 +13,12 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
-![Samrat’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&hide_rank=false&include_all_commits=true)
+### 🧠 My GitHub Stats
 
-<!-- Top Languages Card -->
+![Samrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=radical)
 
----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=pie)
 
