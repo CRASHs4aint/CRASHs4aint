@@ -25,8 +25,6 @@
 ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&theme=tokyonight&layout=pie)
 
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=CRASHs4aint&theme=tokyonight)
 
 <!-- Profile Views (optional) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=CRASHs4aint&label=Profile%20views&color=0e75b6&style=flat)
