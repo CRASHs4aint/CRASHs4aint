@@ -21,10 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&langs_count=10&theme=radical)
 
-### 🥧 GitHub Language Pie Chart
-
-<img src="https://raw.githubusercontent.com/CRASHs4aint/CRASHs4aint/main/metrics.plugin.languages.svg" alt="GitHub Language Pie Chart">
-
 ---
 
 
