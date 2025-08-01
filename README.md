@@ -19,40 +19,21 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&langs_count=10&theme=radical)
+
 
 ---
+### 🥧 GitHub Language Pie Chart
 
-### 🥧 Language Usage Pie
+<img src="https://raw.githubusercontent.com/CRASHs4aint/CRASHs4aint/main/metrics.plugin.languages.svg" alt="GitHub Language Pie Chart">
 
-<img src="https://raw.githubusercontent.com/CRASHs4aint/CRASHs4aint/main/metrics.svg" alt="Metrics" style="width: 100%;">
 
 ### 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CRASHs4aint&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-name: Metrics
-on:
-  schedule: [{cron: "0 * * * *"}]  # Updates every hour
-  push: {branches: ["main"]}
-  workflow_dispatch:
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: "header, repositories"
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          plugin_languages_skipped: ""
-          plugin_languages_limit: 8
-          plugin_languages_colors: github
 
 
 <!-- Profile Views (optional) -->
