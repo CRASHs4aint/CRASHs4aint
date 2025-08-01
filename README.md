@@ -23,6 +23,10 @@
 
 ---
 
+### 🥧 Language Usage Pie
+
+<img src="https://raw.githubusercontent.com/CRASHs4aint/CRASHs4aint/main/metrics.svg" alt="Metrics" style="width: 100%;">
+
 ### 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CRASHs4aint&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
