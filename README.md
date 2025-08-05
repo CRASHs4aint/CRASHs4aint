@@ -20,7 +20,7 @@
 
 ---
 
-!<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/USER/REPO/main/output/github-activity.svg" alt="GitHub activity" />
 </p>
 
