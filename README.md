@@ -20,7 +20,8 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/output/github-contribution-grid-snake.svg)
+![Matrix Rain](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg1MGpkOGU4azIwcXZjc2R1eTJlMW5lcG14cnFiZXV2cmE0N2ZxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRQTezZrKak4BeE/giphy.gif)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
