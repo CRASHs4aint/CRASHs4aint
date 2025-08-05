@@ -20,13 +20,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USER/REPO/main/output/github-activity.svg" alt="GitHub activity" />
-</p>
-
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 
 ### 🌐 Portfolio
 https://sam-portfolio-theta-neon.vercel.app/
+
+![Profile Views](https://komarev.com/ghpvc/?username=CRASHs4aint&label=Profile%20views&color=00ff99&style=for-the-badge)
+
