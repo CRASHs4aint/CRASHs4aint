@@ -9,6 +9,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ---
 
@@ -18,15 +20,10 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/CRASHs4aint/CRASHs4aint/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 
 ### 🌐 Portfolio
 https://sam-portfolio-theta-neon.vercel.app/
-
-### 🎯 Goals
-- ✅ Build 5+ beginner-friendly web apps
-- ✅ Master Git & GitHub
-- ✅ Collaborate on open-source projects
