@@ -2,7 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I'm+Samrat+Kumar+Sahu;Beginner+Web+Developer;Always+Learning+New+Things)
 
-✦･ﾟ:*:･｡.:✧･ﾟ:*:･｡.:✦
+
+<img src="https://raw.githubusercontent.com/username/repo/main/wave.svg" alt="wave divider" width="100%">
+
 
 
 ### 🌟 Tech Stack
@@ -13,14 +15,18 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-✦･ﾟ:*:･｡.:✧･ﾟ:*:･｡.:✦
+
+<img src="https://raw.githubusercontent.com/username/repo/main/wave.svg" alt="wave divider" width="100%">
+
 
 
 ### 📊 GitHub Stats
 ![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=tokyonight)
 
-✦･ﾟ:*:･｡.:✧･ﾟ:*:･｡.:✦
+
+<img src="https://raw.githubusercontent.com/username/repo/main/wave.svg" alt="wave divider" width="100%">
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
