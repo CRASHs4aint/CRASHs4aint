@@ -3,7 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I'm+Samrat+Kumar+Sahu;Beginner+Web+Developer;Always+Learning+New+Things)
 
 
-<img src="https://raw.githubusercontent.com/username/repo/main/wave.svg" alt="wave divider" width="100%">
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+
 
 
 
@@ -16,7 +17,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/username/repo/main/wave.svg" alt="wave divider" width="100%">
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
 
 
@@ -25,7 +26,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=tokyonight)
 
 
-<img src="https://raw.githubusercontent.com/username/repo/main/wave.svg" alt="wave divider" width="100%">
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+
 
 
 
