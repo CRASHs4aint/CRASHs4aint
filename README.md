@@ -23,7 +23,9 @@
 
 ### 📊 GitHub Stats
 ![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=tokyonight)
+### Languages (by %)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&langs_count=10&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=<CRASHs4aint>&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
