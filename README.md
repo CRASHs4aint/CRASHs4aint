@@ -20,15 +20,28 @@
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
 
+## 📊 GitHub Stats  
 
-### 📊 GitHub Stats
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&theme=tokyonight)
-### Languages (by %)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&langs_count=10&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CRASHs4aint&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=<CRASHs4aint>&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
+## 💻 Language Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CRASHs4aint&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
 
