@@ -17,7 +17,6 @@
 
 
 
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
 
 ## 📊 GitHub Stats  
@@ -27,7 +26,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CRASHs4aint&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+
 
 ## 💻 Language Stats  
 
@@ -35,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
 ## 🏆 Achievements  
 
