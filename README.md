@@ -30,10 +30,9 @@
 
 ## 💻 Language Stats  
 
-<p align="center">
-  ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&bg_color=1b1b27&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&bg_color=1b1b27&title_color=ffffff&text_color=ffffff&hide_border=true)
 
 
 ## 🏆 Achievements  
