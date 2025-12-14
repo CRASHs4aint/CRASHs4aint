@@ -13,11 +13,11 @@
 
 ## 🔥 GitHub Stats
 
-![CRASH4saints's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRASH4aints&show_icons=true&theme=tokyonight)
+![CRASH4saints's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRASHs4aint&show_icons=true&theme=tokyonight)
 
 ### 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASH4aints&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=tokyonight)
 
 ---
 
