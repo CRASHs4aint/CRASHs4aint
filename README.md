@@ -1,4 +1,4 @@
-Got it — let’s merge everything into a single polished README page with all the creative features and animations integrated. You can copy‑paste this directly into your README.md:
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hey%20I'm%20Samrat%20Kumar%20Sahu&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Beginner%20Web%20Developer%20🚀&descAlignY=55&descAlign=50)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I'm+Samrat+Kumar+Sahu;Beginner+Web+Developer;Always+Learning+New+Things)
