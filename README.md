@@ -40,13 +40,18 @@
 </p>
 
 ---
+---
 
-## 🏆 Coding Platforms
+## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/CRASHs4aint/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-CRASHs4aint-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CRASHs4aint?theme=dark&font=Fira+Code&ext=contest" />
 </p>
 
 ---
