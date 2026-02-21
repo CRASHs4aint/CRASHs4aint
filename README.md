@@ -33,8 +33,9 @@
 
 ## 📊 GitHub Analytics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=radical)](https://github.com/CRASHs4aint/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRASHs4aint&layout=compact&theme=radical" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CRASHs4aint&theme=tokyonight&hide_border=true" />
 </p>
